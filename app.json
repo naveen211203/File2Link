@@ -29,26 +29,7 @@
         },
         "Start_Message": {
             "description": "The bot will send this message when user send /start",
-            "value": "Hey Friends Your Are Owner Your Telegram Channel⚡
-
-Do you want to make money through the video you share? Here is a website for you
-
-Here's about our website
-
-± 1000 Views / 1$ (77rs)
-± Copyright Content Accepted 
-± 18+ Content Accepted
-± Unlimited Cloud Storage
-± Indian Website
-
-(Note : CPM will increase if used by a lot of people Upto 5/1000Views)
-
-Join Now Earn Money Though Share Your Telegram Videos 
-
-Sign Up Now : https://jdisk.in/
-
-Just Forward Or Send Anything I Will Send Link And Shorten Link In
-https://jdisk.in/member/dashboard"
+            "value": "Hey Friends Your Are Owner Your Telegram Channel⚡Do you want to make money through the video you share? Here is a website for youHere's about our website± 1000 Views / 1$ (77rs)± Copyright Content Accepted ± 18+ Content Accepted± Unlimited Cloud Storage± Indian Website(Note : CPM will increase if used by a lot of people Upto 5/1000Views)Join Now Earn Money Though Share Your Telegram Videos Sign Up Now : https://jdisk.in/Just Forward Or Send Anything I Will Send Link And Shorten Link Inhttps://jdisk.in/member/dashboard"
         },
         "Session_String": {
             "description": "[Optional] Pyrogram Session String, use session_generator.py to generate it, If you don't add it the bot will create a new session every Restarting.",

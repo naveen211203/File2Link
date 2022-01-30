@@ -34,7 +34,7 @@ class Strings:
     start = Config.Start_Message
     dl_link = "🔗 DOWNLOAD LINK 🔗"
     st_link = "🔗 STREAMING LINK 🔗"
-    generating_link = "**🔼 Uploading fast Just Wait...\nSpeed: 100.36 MiB/s**"
+    generating_link = "**🔼 Uploading fast Just Wait...\n\nSpeed: 100.36 MiB/s**"
     bot_channel = "💲 SIGN UP 💲"
     dev_channel = "💲 SIGN UP 💲"
     fast = "⚡️**The link has been updated to a fast link**"
